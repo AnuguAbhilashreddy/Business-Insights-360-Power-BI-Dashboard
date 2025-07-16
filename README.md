@@ -42,4 +42,6 @@ Customer and product performance analysis based on Net Sales and Gross Margin.
 
 ### Here is the Live Dashboard of Business insights 360-power bi dashboard
 [live Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiMzU0MGEwNjctYWYzNC00MmMxLThmNjItNDg1NjUwODJkZWM2IiwidCI6IjIxZmE1Njk5LTYzNTItNDFiZS05YjVhLWJjMTFmZjAxOWRiNCJ9)
+### Here is the live Dashboard pdf
+[Business insights 360 live dashboard pdf](https://github.com/AnuguAbhilashreddy/Business-Insights-360-Power-BI-Dashboard/blob/main/Business%20Insights%20360.pdf)
 
