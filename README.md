@@ -45,3 +45,21 @@ Customer and product performance analysis based on Net Sales and Gross Margin.
 ### Here is the live Dashboard pdf
 [Click here for dashboard pdf](https://github.com/AnuguAbhilashreddy/Business-Insights-360-Power-BI-Dashboard/blob/main/Business%20Insights%20360.pdf)
 
+ 
+ ### Here are the dashboard screen shots
+ 
+<img width="1283" height="698" alt="Screenshot 2025-07-17 025424" src="https://github.com/user-attachments/assets/965b7690-5813-4dc4-8127-5d8c28588f62" />
+
+<img width="1214" height="690" alt="Screenshot 2025-07-17 025551" src="https://github.com/user-attachments/assets/80cc0f28-892d-49af-b374-810a5df8bcae" />
+
+<img width="1186" height="692" alt="Screenshot 2025-07-17 025535" src="https://github.com/user-attachments/assets/a9ef5196-3c44-47d6-98bf-af9abd4d66eb" />
+
+<img width="1179" height="681" alt="Screenshot 2025-07-17 025509" src="https://github.com/user-attachments/assets/d5209d52-a226-4282-af93-e428741d5537" />
+
+<img width="1306" height="683" alt="Screenshot 2025-07-17 025445" src="https://github.com/user-attachments/assets/12c72e4f-fec3-47e3-abc2-7d642e6cd036" />
+
+<img width="1194" height="684" alt="Screenshot 2025-07-17 025607" src="https://github.com/user-attachments/assets/29d23fd4-a64d-4f06-b9ff-e7e57ca21994" />
+
+
+
+here 
