@@ -75,6 +75,7 @@ Special thanks to the community & mentors for guidance.
 This project demonstrates my ability to translate complex business problems into actionable insights using Power BI, SQL, and Excel.
 ## connect with me:
 📧 Email: abhilashreddyanugu@gmail.com 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/abhilashreddyanugu)  
 
 
