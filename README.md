@@ -59,7 +59,6 @@ This project significantly enhanced my ability to translate raw data into compel
 ✅ Data Analyst / Power BI Portfolio  
 ✅ Interview Showcase Project  
 
-
 ---
 
 ## 🙌 Acknowledgements
