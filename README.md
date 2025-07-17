@@ -48,10 +48,9 @@ This project significantly enhanced my ability to translate raw data into compel
 
 | File | Description |
 |------|-------------|
-|[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzU0MGEwNjctYWYzNC00MmMxLThmNjItNDg1NjUwODJkZWM2IiwidCI6IjIxZmE1Njk5LTYzNTItNDFiZS05YjVhLWJjMTFmZjAxOWRiNCJ9) | Main Power BI dashboard |
-
-|[clik her for pdf](https://github.com/AnuguAbhilashreddy/Business-Insights-360-Power-BI-Dashboard/blob/main/Business%20Insights%20360.pdf)| Dashboard Pdf|
-| [walk through video of project](https://drive.google.com/file/d/13TZS7LkpPcaSJeqBQBzIq1QmOpCWt-7M/view?usp=sharing) | Demo video for recruiters |
+|[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzU0MGEwNjctYWYzNC00MmMxLThmNjItNDg1NjUwODJkZWM2IiwidCI6IjIxZmE1Njk5LTYzNTItNDFiZS05YjVhLWJjMTFmZjAxOWRiNCJ9)| Main Power BI dashboard |
+|[clik her for pdf](https://github.com/AnuguAbhilashreddy/Business-Insights-360-Power-BI-Dashboard/blob/main/Business%20Insights%20360.pdf)|Dashboard Pdf|
+| [walk through video of project](https://drive.google.com/file/d/13TZS7LkpPcaSJeqBQBzIq1QmOpCWt-7M/view?usp=sharing)|Demo video for recruiters |
 
 ---
 
