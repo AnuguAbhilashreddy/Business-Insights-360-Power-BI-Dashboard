@@ -5,9 +5,9 @@ A comprehensive Power BI solution built for **AtliQ Hardwares**, replacing Excel
 This project, "Business Insights 360," is a comprehensive Power BI solution developed as part of the Codebasics Bootcamp  for AtliQ Hardwares, a growing consumer electronics company
 ## Problem Statement
 AtliQ Hardwares relied heavily on Excel for their data analysis, which limited their ability to perform in-depth analysis, identify trends, and gain real-time insights across their diverse product portfolio (PCs, keyboards, etc.). There was a clear need for a more robust and scalable business intelligence solution.
-Objective
+## Objective
 The core objective was to address critical business queries and deliver targeted, data-driven insights to key stakeholders across multiple departments: Finance, Sales, Marketing, Supply Chain, and Executive leadership, all within a Power BI environment.
-Tools & Technologies Used
+## Tools & Technologies Used
 
 This end-to-end project involved working with a substantial dataset of 1.8 million rows of data, including both dimension and fact tables. It provided invaluable hands-on experience and reinforced skills in:
 
